@@ -1,3 +1,6 @@
+### Click Below to Read the Project 
+[EDA_Insurance.html](https://htmlpreview.github.io/?https://github.com/arhamlodha318/EDA-Insurance/blob/main/EDA-Insurance.html)
+
 ### Aim : Assist Client X to improve their motor portfolio performance. 
 
 ### About Client X : Client X is a mid-sized insurer in Asian market where motor is the main line of business. 
@@ -16,9 +19,6 @@ to map the various datasets.
 1. Using PowerBI, construct dashboards and provide a portfolio storyline corresponding to your dashboards. 
 2. Using Python programming language, conduct an exploratory  analysis & present your results.
 
-
-### Click Below to Read the Project 
-[EDA_Insurance.html](https://htmlpreview.github.io/?https://github.com/arhamlodha318/EDA-Insurance/blob/main/EDA-Insurance.html)
 
 ### Conclusion_Draft 
 
