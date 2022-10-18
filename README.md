@@ -1,4 +1,4 @@
-### Aim : You have been tasked to assist Client X to improve their motor portfolio performance. 
+### Aim : Assist Client X to improve their motor portfolio performance. 
 
 ### About Client X : Client X is a mid-sized insurer in Asian market where motor is the main line of business. 
 
